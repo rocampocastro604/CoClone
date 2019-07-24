@@ -1,0 +1,22 @@
+{
+  "name": "coclone",
+  "version": "1.0.0",
+  "description": "Web Application for comments - Twitter Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocampocastro604/CoClone.git"
+  },
+  "author": "Ricardo Ocampo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocampocastro604/CoClone/issues"
+  },
+  "homepage": "https://github.com/rocampocastro604/CoClone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

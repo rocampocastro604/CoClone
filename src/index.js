@@ -3,6 +3,8 @@ const app = express()
 const morgan = require('morgan')
 const path = require('path')
 
+const {mongoose} = require('./database')
+
 //Configuracion
 app.set('port', process.env.PORT || 3000)
 //Middlewares

@@ -21,5 +21,7 @@ Aplicacion web de comentarios semejante a Twitter
  - Ejemplo de articulos funcional en instancia EC2 de AWS
  - Ejemplo de nodeApps funcional en el DCA
 
+ - Front end en React
+ - Aplicacion funcional en LocalHost
 
 

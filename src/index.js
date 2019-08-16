@@ -6,7 +6,7 @@ const path = require('path')
 const {mongoose} = require('./database')
 
 //Configuracion
-app.set('port', process.env.PORT || 3000)
+app.set('port', process.env.PORT || 80)
 //Middlewares
 //Funciones que se ejecutan antes de que lleguen a nuestras rutas
 app.use(morgan('dev'))

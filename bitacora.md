@@ -23,5 +23,8 @@ Aplicacion web de comentarios semejante a Twitter
 
  - Front end en React
  - Aplicacion funcional en LocalHost
+ 
+ - Aplicacion CoClone funcional en AWS con Docker
+ - funcionando con el dominio rocampottele.ml
 
 

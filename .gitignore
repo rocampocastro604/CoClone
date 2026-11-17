@@ -1,2 +1,6 @@
 node_modules/
 data/
+npm-debug.log*
+*~
+ssl/*.key
+ssl/*.crt
